@@ -23,4 +23,5 @@ download here:https://pypi.org/project/dlib/#files
 Download opencv
 pip install opencv-python
 
+pip install Pillow
 you can also check the fullpost on https://www.pugetsystems.com/labs/hpc/The-Best-Way-to-Install-TensorFlow-with-GPU-Support-on-Windows-10-Without-Installing-CUDA-1187/
